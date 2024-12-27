@@ -1,5 +1,3 @@
-# 11-Plots-of-Data-Science
-This plot contains the most important plots that every data scientist should know.
 
 # 11 Plots of Data Science
 
